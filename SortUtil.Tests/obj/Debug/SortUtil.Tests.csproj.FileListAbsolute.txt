@@ -1,0 +1,16 @@
+D:\EPAM\NET.S.2018.Struk.01\SortUtil.Tests\obj\Debug\SortUtil.Tests.csprojResolveAssemblyReference.cache
+D:\EPAM\NET.S.2018.Struk.01\SortUtil.Tests\obj\Debug\SortUtil.Tests.csproj.CoreCompileInputs.cache
+D:\EPAM\NET.S.2018.Struk.01\SortUtil.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\EPAM\NET.S.2018.Struk.01\SortUtil.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\EPAM\NET.S.2018.Struk.01\SortUtil.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\EPAM\NET.S.2018.Struk.01\SortUtil.Tests\bin\Debug\SortUtil.Tests.dll
+D:\EPAM\NET.S.2018.Struk.01\SortUtil.Tests\bin\Debug\SortUtil.Tests.pdb
+D:\EPAM\NET.S.2018.Struk.01\SortUtil.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\EPAM\NET.S.2018.Struk.01\SortUtil.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\EPAM\NET.S.2018.Struk.01\SortUtil.Tests\bin\Debug\SortUtil.dll
+D:\EPAM\NET.S.2018.Struk.01\SortUtil.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\EPAM\NET.S.2018.Struk.01\SortUtil.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\EPAM\NET.S.2018.Struk.01\SortUtil.Tests\bin\Debug\SortUtil.pdb
+D:\EPAM\NET.S.2018.Struk.01\SortUtil.Tests\obj\Debug\SortUtil.Tests.csproj.CopyComplete
+D:\EPAM\NET.S.2018.Struk.01\SortUtil.Tests\obj\Debug\SortUtil.Tests.dll
+D:\EPAM\NET.S.2018.Struk.01\SortUtil.Tests\obj\Debug\SortUtil.Tests.pdb

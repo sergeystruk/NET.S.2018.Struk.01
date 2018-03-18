@@ -1,0 +1,5 @@
+D:\EPAM\NET.S.2018.Struk.01\SortUtil\bin\Debug\SortUtil.dll
+D:\EPAM\NET.S.2018.Struk.01\SortUtil\bin\Debug\SortUtil.pdb
+D:\EPAM\NET.S.2018.Struk.01\SortUtil\obj\Debug\SortUtil.csproj.CoreCompileInputs.cache
+D:\EPAM\NET.S.2018.Struk.01\SortUtil\obj\Debug\SortUtil.dll
+D:\EPAM\NET.S.2018.Struk.01\SortUtil\obj\Debug\SortUtil.pdb
